@@ -4,6 +4,7 @@ Description: This program calculates the distance between two points using a mat
 HOW TO RUN THIS PROGRAM: This program allows you to enter values of variables to be calculated by the Distance Calculator. After it is calculated, it will be printed and shown.
 
 INPUT NEEDED:
+
 x1 = float(input("Enter x1: "))
 
 x2 = float(input("Enter x2: "))
