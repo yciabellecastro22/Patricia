@@ -7,7 +7,7 @@ This program allows you to enter values of variables to be calculated by the Dis
 ## INPUT NEEDED:
 
 x1 = float(input("Enter x1: "))
-### legit
+#### legit
 x2 = float(input("Enter x2: "))
 
 y1 = float(input("Enter y1: "))
