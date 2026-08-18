@@ -5,6 +5,9 @@ HOW TO RUN THIS PROGRAM: This program allows you to enter values of variables to
 
 INPUT NEEDED:
 x1 = float(input("Enter x1: "))
+
 x2 = float(input("Enter x2: "))
+
 y1 = float(input("Enter y1: "))
+
 y2 = float(input("Enter y2: "))
